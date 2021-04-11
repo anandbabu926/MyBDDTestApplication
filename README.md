@@ -1,6 +1,6 @@
 # MyBDDTestApplication
 
-Developed this project with Serenity-Cucumber BDD with Junit. 
+Developed this project in Serenity-Cucumber BDD with Junit. 
 
 Please run the project with below command
 
