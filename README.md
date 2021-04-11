@@ -3,6 +3,7 @@
 Developed this project with Serenity-Cucumber BDD with Junit. 
 
 Please run the project with below command
+
 mvn clean verify serenity:aggregate
 
 This project aims to execute 2 BDD scenarios 
