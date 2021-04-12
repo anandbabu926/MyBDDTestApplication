@@ -19,12 +19,12 @@ This project aims to execute 2 BDD scenarios
 2. Modify the user firstname and lastname from My accounts page.
 
 Navigation -
-src/test/resources/features - all the features and its related scenarios are defined in this package
-com.mytest.cucumber - serenity - cucumber runner with feature file definition
-com.mytest.cucumber.steps - all the step definition for the scenarios are defined in this package
-com.mytest.cucumber.steps.serenity - all the steps for the step definition are defined in this package
-com.mytest.pages - all the web driver actions are defined in this package
-com.mytest.utils - all the categories of the web application under test is defined in this package.
+- src/test/resources/features - all the features and its related scenarios are defined in this package
+- com.mytest.cucumber - serenity - cucumber runner with feature file definition
+- com.mytest.cucumber.steps - all the step definition for the scenarios are defined in this package
+- com.mytest.cucumber.steps.serenity - all the steps for the step definition are defined in this package
+- com.mytest.pages - all the web driver actions are defined in this package
+- com.mytest.utils - all the categories of the web application under test is defined in this package.
 
 Development in Progress-
 - Develop User Registration  script
