@@ -6,7 +6,7 @@ Please run the project with below command
 
 **mvn clean verify serenity:aggregate**
 
-Results will be executed and Serenity reports will be generated based on feature file. 
+Feature will be executed as per Serenity-Junit runner and Serenity reports will be generated for the execution. 
 
 Below is the reference serenity report
 
